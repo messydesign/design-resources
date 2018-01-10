@@ -27,6 +27,8 @@
     * [Independent practice, consulting, freelancing](#independent-practice-consulting-freelancing)
     * [Process and mindset](#process-and-mindset)
     * [User experience and interaction design](#user-experience-and-interaction-design)
+    * [Human Computer Interaction](#human-computer-interaction)
+    * [Information Architecture](#information-architecture)
     * [User research](#user-research)
   * [Publishers and distributors](#publishers-and-distributors)
 * [Browser features](#browser-features)
@@ -131,6 +133,12 @@
 * [*Sprint* by Jake Knapp &amp; more](https://www.goodreads.com/book/show/25814544-sprint), 2016 — a balanced book of details, examples, checklists, and scripts to perform your own famed Google Ventures design sprint
 
 ###### User experience and interaction design
+* [_Microinteractions: Designing with Details_ by Dan Saffer](https://www.goodreads.com/book/show/17239285-microinteractions), 2013 — straight-forward examples on the small details that exist inside & around a product’s features
+
+###### Human computer interaction
+* [_Microinteractions: Designing with Details_ by Dan Saffer](https://www.goodreads.com/book/show/17239285-microinteractions), 2013 — straight-forward examples on the small details that exist inside & around a product’s features
+
+###### Information architecture
 * [_Microinteractions: Designing with Details_ by Dan Saffer](https://www.goodreads.com/book/show/17239285-microinteractions), 2013 — straight-forward examples on the small details that exist inside & around a product’s features
 
 ##### User research
