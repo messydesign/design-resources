@@ -1,6 +1,6 @@
 # Design Resources
 
-👋 Hi, I’m [messy.design](http://messy.design)! This information was originally compiled by [@skullface](http://twitter.com/skullface). I am just here to spread that knowledge and add what I can so that the most comprehensive list is avaliable to my project leads and teams. My contributions include system design, HCI and IA resources. 📚
+👋 Hi, I’m [messy.design](http://messy.design)! This information was originally compiled by [@skullface](http://twitter.com/skullface). I am just here to spread that knowledge and add what I can so that the most comprehensive list is avaliable to my project leads and teams. My contributions include UX Strategy, HCI and IA resources. 📚
 
 💫 If you would like to access this information on the web, @skullface has created a fantastic online design resource here, which is reproduced in full below!
 
