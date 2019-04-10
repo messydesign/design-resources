@@ -2,10 +2,6 @@
 
 👋 Hi, I’m [messy.design](http://messy.design)! This information was originally compiled by [@skullface](http://twitter.com/skullface). I am just here to spread that knowledge and add what I can so that the most comprehensive list is avaliable to my project leads and teams. My contributions include system design, HCI and IA resources. 📚
 
-✨ I used to keep this info as a Google Doc to share with my most trusted coworkers and friends, but I thought the info would be better served in the open.
-
-⭐️ These lists and the contents within reflect _my_ opinions. I’m aiming for quality over quantity — only resources I would recommend. Suggestions, issues, and PRs are welcome 💖, but just because a resource exists doesn’t necessarily mean I’d recommend it.
-
 💫 If you would like to access this information on the web, @skullface has created a fantastic online design resource here, which is reproduced in full below!
 
 ## Table of contents
